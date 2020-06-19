@@ -222,7 +222,8 @@ html {
     }
     .banner container {
         padding: 0;
-        border:1px red solid;
     }
-    section
+    section {
+        padding: 0;
+    }
 }
