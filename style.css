@@ -220,4 +220,7 @@ html {
     .col-3 {
         width: 100%;
     }
+    .banner container {
+        padding: 0;
+    }
 }
